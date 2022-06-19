@@ -12,7 +12,7 @@ We would like to call a function on a remote server in a neat way like:
                      function=add, args={'a': 1, 'b': 2})
 3
 ```
-To this end, we develop the Bluebird. This is a lightweight python network programming interface and enables us to write network-based python program easily.
+This is also called remote procedure call (RPC). We develop the Bluebird, an extremely lightweight implementation of RPC. It enables us to write network-based python program and do customization easily.
 
 
 ## Examples
