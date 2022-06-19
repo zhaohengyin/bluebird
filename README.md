@@ -134,6 +134,6 @@ In some applications, the size of transmitted data can be very large (e.g.). We 
 You can compare the execution speed of setting buffersize to different values.
 
 ## Misc
-At current stage, this is an experimental interface. It is suitable for prototyping and simple applications, but not be ready for scaled application since some advanced features like non-blocking IO has not been added yet. Moreover, we also need some proper error handling, like dealing with timeout.
+At current stage, this is an experimental interface. It is suitable for prototyping and simple applications, but not ready for scaled application since some advanced features like non-blocking IO has not been added yet. Moreover, we also need some proper error handling, like dealing with timeout.
 
 You are welcome to contribute to this project! 🙂
