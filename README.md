@@ -133,6 +133,21 @@ In some applications, the size of transmitted data can be very large (e.g.). We 
 
 You can compare the execution speed of setting buffersize to different values.
 
+### Chatroom with 100 lines of code.
+With PyQt5 and Bluebird, we can build a simple chatroom app with 100 lines of code!
+
+![chatroom](./misc/chatroom.png)
+
+**Try out the example**
+To run this example, we first run
+```bash
+python ./example/chatroom/server.py
+```
+Then we open another 2 terminal, in each of them run
+```bash
+python ./example/chatroom/client.py
+```
+
 ## Misc
 At current stage, this is an experimental interface. It is suitable for prototyping and simple applications, but not ready for scaled application since some advanced features like non-blocking IO has not been added yet. Moreover, we also need some proper error handling, like dealing with timeout.
 
