@@ -1,5 +1,5 @@
 # Bluebird
-**Bluebird: Lightweight Python Network Programming Interface**
+**Bluebird: Lightweight Python RPC Network Programming Interface**
 
 ![bluebird](./misc/bluebird.png)
 ## Introduction
