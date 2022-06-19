@@ -1,6 +1,7 @@
 # Bluebird
-Bluebird: Lightweight Python Network Programming Interface
+**Bluebird: Lightweight Python Network Programming Interface**
 
+![bluebird](./misc/bluebird.png)
 ## Introduction
 In many network-based applications, we need to access and leverage the computation resources on a remote device. 
 Such a requirement can make the programming quite difficult. This is in particular undesirable for the python programming, where we focus more on the application logic.
